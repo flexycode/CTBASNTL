@@ -10,22 +10,20 @@
 ### Schedule: [TUE 11:00 PM - 3:00 PM 513MB - FRI 11:00 PM - 1:40 PM 517MB](https://www.youtube.com/watch?v=bFr6it_iYdU)
 ### Professor: [Mr. Eliseo Q. Ramirez](https://www.youtube.com/watch?v=_kUFws-dHEI)     
 ### No. of Units: [3 Units](https://www.youtube.com/watch?v=HNefNLOHVYk)
-### Prerequisite: [None](https://github.com/flexycode/CTINFMGL)
+### Prerequisite: [CCOMPORG](https://github.com/flexycode/CTINFMGL)
 
-<!-- Genshin Impact -->
+<!-- Basic Networking and Ethical Hacker -->
 <div align="center">
-<img src="https://media.giphy.com/media/jUckyQVjuHNx9vXUtv/giphy.gif?cid=ecf05e47s58r7w8mev9d2vugcw28eadlktivra6h0amea6z2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250">
-<img src="https://media.giphy.com/media/uFygSquQkzbJTn3eQe/giphy.gif?cid=ecf05e47lpnwmxubw6vck95ymg1j0anne5ofqr69t8v43vcf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
-<img src="https://media.giphy.com/media/Yg0eXe6DhK8pVlUtVJ/giphy.gif?cid=ecf05e47lpnwmxubw6vck95ymg1j0anne5ofqr69t8v43vcf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250">
+<img src="https://media.giphy.com/media/ErX3VGPtogIfRtnThP/giphy.gif?cid=ecf05e473wht40xajpsucn50beayifkbnq780iz7i2wb81px&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="250">
+<img src="https://media.giphy.com/media/GbxZdp9V9TojWhTFeK/giphy.gif?cid=790b7611rt7k2sx7jz4ocnh5uag3bhkxg9e8qyrtbbj9kos1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+<img src="https://media.giphy.com/media/3d2yl0QuHpHdYtfwVh/giphy.gif?cid=790b7611rt7k2sx7jz4ocnh5uag3bhkxg9e8qyrtbbj9kos1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="250">
 </div>
 
 
 
 ## 🧠 Overview
 
-```
-Coming Soon
-```
+This course introduces students to the essential concepts and technologies of computer networking. It covers the architecture, protocols, and devices that facilitate communication across networks, providing both theoretical knowledge and practical skills.
 
 
 ## 📋 Table of Contents
@@ -42,14 +40,18 @@ Coming Soon
 
 ## 🛸 Introduction
 
-```
-Coming Soon
-```
+This course introduces the basic concepts, principles, and techniques of computer networking. It covers the fundamentals of networking including network models, network architectures, and
+protocols. The course explores various types of networks, such as local area networks (LANs), wide area networks (WANs), and wireless networks.Topics covered in the course include network
+topologies, network devices such as routers, switches, hubs, and firewalls, network addressing, subnetting, routing protocols, network security, and network management. The course also covers
+the OSI and TCP/IP models, network performance and troubleshooting.
 
 ## 👷 Usage
 
+At the end of the course, the student must be able to:
 ```
-Coming Soon
+1. Understand the fundamental concepts and principles of computer networking
+2. Design and implement simple network configurations using wired and wireless technologies.
+3. Be aware of emerging network technologies and their impact on computer networking.
 ```
 
 
@@ -64,9 +66,19 @@ Coming Soon
 
 ### Course Outline and Timeframe
 
-```
-Coming Soon
-```
+| WEEK | COURSE OUTCOMES | TOPIC OUTCOMES | TOPICS | METHODOLOGY | RESOURCES | ASSESSMENT |
+|---|---|---|---|---|---|---|
+| 1 | Articulate on School and class policies, laboratory policy, laboratory tools and safety | Orientation on National University VMGs, Core Values, GAINs and Class Policies<br>Introduction to Course<br>- Occupational Health and Safety (OHS) | Orientation on National University VMGs, Core Values, GAINs and Class Policies<br>Introduction to Course<br>- Occupational Health and Safety (OHS) | Lecture<br>- Synchronous Class<br>- Face-to-Face (F2F) | Student Handbook<br>- Course Materials<br>- PPT |  |
+| 2 - 3 | Understand how network structure works | Introduction to Computer Networks<br>- Network Devices, Equipment, Structures and Topologies | Introduction to Computer Networks<br>- Network Devices, Equipment, Structures and Topologies | Lecture<br>- Demonstration<br>- Lab Activity | Course Materials<br>- PPT |  |
+| 4 - 5 | CO1: Understand how Network media is used in different Network architecture | Network Media, Wireless Network and Broadband Technology | Network Media, Wireless Network and Broadband Technology | Lecture<br>- Lab Activity | Course Materials<br>- PPT | Short Exam |
+| 6 - 7 | Articulate on different computer networking models | Network Standards and Protocols | Network Standards and Protocols | Lecture<br>- Lab Activity | Course Materials<br>- PPT | Long Exam |
+| 7 | CO2: MIDTERM EXAM | Fundamentals of Computer Network | Fundamentals of Computer Network | Lecture<br>- Lab Activity | Course Materials<br>- PPT | Long Exam |
+| 8 - 9 | Identify different IP Address classes and how they work | IP Addressing | IP Addressing | Lecture<br>- Lab Activity | Course Materials<br>- PPT |  |
+| 10 - 11 | CO1: Understanding Dynamic IP addresses | IP Subnetting and VLSM | IP Subnetting and VLSM | Lecture<br>- Lab Activity | Course Materials<br>- PPT | Short Exam |
+| 12 | Demonstrate the use of network switches | VLAN | VLAN | Lecture<br>- Lab Activity | Course Materials<br>- PPT |  |
+| 13 | Articulate the management of IP addresses on different network devices | Network Installation, Configuration, and Troubleshooting | Network Installation, Configuration, and Troubleshooting | Lecture<br>- Lab Activity | Course Materials<br>- PPT |  |
+| 13.5 | CO3: FINAL EXAM | Routing and Switching | Routing and Switching | Lecture<br>- Lab Activity | Course Materials<br>- PPT | Long Exam |
+
 
 <!-- 
 #### Delivery Mode: Discussion, Program demonstration, Synchronous Class, Face-to-face
@@ -114,6 +126,15 @@ Coming Soon
 |          |               |                                                      |                                                                                                    |
 
 -->
+# 🏆 CompTIA Badge
+<!-- CompTIA GIF  -->
+<div align="center">
+<img src="https://media.giphy.com/media/2UqaoYzbmYcq5eLyBg/giphy.gif?cid=ecf05e47vojgwxuu9urzir9ojc0ugywevgtz8divhn05xfbx&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="250">
+<img src="https://media.giphy.com/media/5Y1miInt9GuFr7OkY4/giphy.gif?cid=ecf05e47668tr75xhz6iivpwx36mwo0tai7gm2nxjb60gsq2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+<img src="https://media.giphy.com/media/aAXTNN8QVeggoSuKII/giphy.gif?cid=ecf05e47t3uzd43d0p9jn0wfm03tous7v94nllov0bt7qt9r&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="250">
+</div>
+
+
 
 # 📁 Repository Structure 
 
@@ -162,9 +183,11 @@ This project is provided "as is" without warranty of any kind, express or implie
 Coming Soon
 ```
 
-<!-- Genshin Impact -->
+<!-- Cisco Gif -->
 <div align="center">
-<img src="https://media.giphy.com/media/itdYhaQ5GKXczC1WFJ/giphy.gif?cid=ecf05e476fpqi63k6pmpvgbhklal1pw4ewurwhz1gezg1ag0&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWliMWlwYjgyb2x0dWJneHl4aWVhbW81c2NmM3NuZnBmMXVrZzA3MiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/efCMCDdkCr53cdRZyU/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWliMWlwYjgyb2x0dWJneHl4aWVhbW81c2NmM3NuZnBmMXVrZzA3MiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/J5B00esp0BoiCrqdCe/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/hWFyLSsxHFys3ZD3v8/giphy.gif?cid=790b7611eib1ipb82oltubgxyxieamo5scf3snfpf1ukg072&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="250">
 </div>
 
 # 📫 Changelogs
@@ -198,7 +221,7 @@ Coming Soon
 
 <!-- Genshin Impact -->
 <div align="center">
-<img src="https://media.giphy.com/media/BqjYZq0yMVRYvyCfgL/giphy.gif?cid=ecf05e476fpqi63k6pmpvgbhklal1pw4ewurwhz1gezg1ag0&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+<img src="https://media.giphy.com/media/rrB1AynLKIJyqOsRfi/giphy.gif?cid=ecf05e47431g5w7bnxfizuuh3d3mabz76432einup6trczb0&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
 </div>
 
 <!-- End point line insert Comeback again next time, feel free to modify this  -->
