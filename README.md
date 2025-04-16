@@ -147,6 +147,11 @@ coming soon...
 coming soon...
 ```
 
+### 🧠 Other Source
+
+1. [Networking For Beginners - IP Mac Subnet Switch Router DHCP DNS Gateway Firewall](https://www.youtube.com/watch?v=z_CU-IeOEzU)
+
+
 # 🔑 License
 ```
 coming soon...
